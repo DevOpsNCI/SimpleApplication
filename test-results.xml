@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0170" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-03-06T21:45:31" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GET /" timestamp="2023-03-06T21:45:31" tests="1" file="/Users/gabriel/Documents/NCI/DevOps/CA/SimpleApplication/test/test.js" time="0.0170" failures="0">
+    <testcase name="GET / should respond with homepage" time="0.0170" classname="should respond with homepage">
+    </testcase>
+  </testsuite>
+</testsuites>
